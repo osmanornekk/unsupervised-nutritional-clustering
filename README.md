@@ -1,6 +1,11 @@
 # Unsupervised Nutritional Clustering using PCA and Kernel Methods
 
-This project applies unsupervised machine learning techniques to a global food nutrition dataset. The goal is to discover meaningful groupings of foods based on macronutrient content using dimensionality reduction and clustering.
+## Project Overview
+
+This project was completed as part of the **Machine Learning II(MICRO-570)** course at **EPFL** (École Polytechnique Fédérale de Lausanne).
+
+It applies unsupervised machine learning techniques to a global food nutrition dataset. The goal is to discover meaningful groupings of foods based on macronutrient content using dimensionality reduction (PCA and Kernel PCA) and clustering (KMeans).
+
 
 ## Dataset
 
