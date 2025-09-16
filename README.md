@@ -1,10 +1,11 @@
-# 🍎 Unsupervised Nutritional Clustering using PCA and Kernel Methods
+# Unsupervised Nutritional Clustering using PCA and Kernel Methods
 
 This project applies unsupervised machine learning techniques to a global food nutrition dataset. The goal is to discover meaningful groupings of foods based on macronutrient content using dimensionality reduction and clustering.
 
 ## 📊 Dataset
 
 - **Source:** [Kaggle: Food Nutrition Dataset](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data)
+  
 Note: The original Kaggle dataset consists of 5 separate CSV files.
 For this project, all files were merged into a single consolidated CSV file (all_data_food.csv) before preprocessing and analysis.
 - **Contents:** 2395 food items with detailed nutrient information per 100g serving
